@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ea4ccf64.css",
+    "main.js": "/portfolio/static/js/main.6ae4e256.js",
+    "static/media/skill.jpg": "/portfolio/static/media/skill.1b2557cbe794af064114.jpg",
+    "static/media/Resumepddd.pdf": "/portfolio/static/media/Resumepddd.b6ae5f5b96130dd3cc4f.pdf",
+    "static/media/avatar.png": "/portfolio/static/media/avatar.b85e8ef877b83d40e585.png",
+    "index.html": "/portfolio/index.html",
+    "main.ea4ccf64.css.map": "/portfolio/static/css/main.ea4ccf64.css.map",
+    "main.6ae4e256.js.map": "/portfolio/static/js/main.6ae4e256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea4ccf64.css",
+    "static/js/main.6ae4e256.js"
+  ]
+}
